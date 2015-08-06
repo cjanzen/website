@@ -9,6 +9,7 @@ Creating local branch of Women Who Code in Wichita. This project will serve as a
 	<li>Content for website</li>
 	<li>Navigation links (Memebers, Contact, Jobs, Events, Blog??)</li>
 	<li>Mess around with people's heads</li>
+	<li>Help others</li>
 </ul>
 
 <h4>Technologies</h4>
